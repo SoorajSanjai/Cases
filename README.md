@@ -28,6 +28,9 @@ The dataset includes records of customer complaints received by various financia
 - **Response Efficiency Insights**: Gain insights into the efficiency and effectiveness of companies' responses to complaints.
 - **Regional Variations**: Understand regional variations in complaint patterns.
 - **Recommendations**: Provide recommendations for improving complaint handling processes and customer satisfaction.
+- 
+## Visualizations/Dashboard
+![image](https://github.com/user-attachments/assets/c13ea53f-20a8-45a1-8ff3-56eb3b123774)
 
 ## Findings
 - **Average Response Time**: The average response time to complaints is 0.25 days, indicating a quick initial reaction from the companies.
